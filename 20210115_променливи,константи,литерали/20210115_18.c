@@ -25,8 +25,8 @@ int main()
         bill += pricePerDayForOneCamp;
         totalNumberOfCampers--;
     }
-    /*printf("Let caravans: %d   Left Camper: %d\n", totalNumberOfCaravans, totalNumberOfCampers);
-    printf("Bill: %f\n", bill);*/
+    /*printf("Let caravans: %d   Left Camper: %d\n", totalNumberOfCaravans, totalNumberOfCampers);*/
+    printf("Bill: %f\n", bill);
     printf("Iskate li oshte produkti\n");
     printf("Ako zelaete karavana natisnete 1\n");
     printf("Ako zelaete kemper natisnete 2\n");
